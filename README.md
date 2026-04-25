@@ -524,14 +524,5 @@ Projects/
 
 ---
 
-## 9. Contato e Suporte
-
-Para dúvidas ou problemas com este script:
-1. Consultar a seção de Troubleshooting (seção 4.5)
-2. Verificar os requisitos do sistema (seção 6)
-3. Revisar as variáveis configuráveis no início do código
-
----
-
 *Documento gerado em: 25/04/2026*
-*Autor: Documentação Técnica - Desligar.ps1*
+*Autor:Álvaro Quevedo -  Documentação Técnica - Desligar.ps1*
