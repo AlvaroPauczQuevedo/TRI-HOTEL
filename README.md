@@ -716,4 +716,4 @@ Em ambientes corporativos com domínio:
 ---
 
 *Documento gerado em: 25/04/2026*
-*Autor:Álvaro Quevedo - Documentação Técnica - Desligar.ps1*
+*Autor: Álvaro Quevedo - Documentação Técnica - Desligar.ps1*
